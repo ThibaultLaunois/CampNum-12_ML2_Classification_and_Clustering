@@ -16,9 +16,9 @@ b)How many patient were incorrectly diagnosed as being Healthy (false negatives)
 
 3) Changing the threshold:
 a)What is the precision if we change the threshold to have a 0.95 recall ? 
-
+48%
 b) How many patient were incorrectly diagnosed as being Healthy (false negatives)?
-
+2
 
 
 4) Choosing an overall metric:
