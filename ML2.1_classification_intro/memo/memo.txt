@@ -1,9 +1,12 @@
 1) What are the necessary preprocessing steps regarding:
 a) classes ?
-
+Check the balance
 b) categorical features ? 
-
+Use a HotOneEncoder for features with few classes.
+Replace Nan values either with Unknow or most_frequent, etc ...
 c) continuous features ?
+replace nan values
+standardize
 
 2) Confusion matrix:
 a)How many patient were incorrectly diagnosed with a Heart disease (false positives) ?
