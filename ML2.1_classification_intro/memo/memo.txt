@@ -24,5 +24,6 @@ b) How many patient were incorrectly diagnosed as being Healthy (false negatives
 4) Choosing an overall metric:
 
 a) If I can compute my test sample probabilities and care more about the positive class, which overall metric should I use to compare classifiers ? 
-
+Recall
 b) And if I only have the class predictions and no probabilities ?
+accuracy
